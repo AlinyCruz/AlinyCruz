@@ -1,7 +1,7 @@
-### Bem vindo(a)!!! 👋
+### Seja Bem vindo(a) ao meu GitHub!!! 👋
 
 - 🔭 Em busca da primeira oportunidade
-- 🌱 Estudante da Trybe
+- 🌱 Estudante da Trybe - Fundamentos / FrontEnd / BackEnd / Ciência da Computação
 
 <div>
   <a href="https://github.com/AlinyCruz">
