@@ -1,5 +1,7 @@
 ### Seja Bem vindo(a) ao meu GitHub!!! 👋
 
+<img height="180em" align="center" src="https://blog.controlle.com/wp-content/uploads/2017/05/minions.gif"/>
+
 - 🔭 Em busca da primeira oportunidade
 - 🌱 Estudante da Trybe - Fundamentos / FrontEnd / BackEnd / Ciência da Computação
 
