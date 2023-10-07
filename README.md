@@ -2,7 +2,8 @@
 
 <img height="180em" align="center" src="https://blog.controlle.com/wp-content/uploads/2017/05/minions.gif"/>
 
-- 🌱 Formada em Desenvolvimento Web Full Stack pela    <a href="https://www.betrybe.com/">Trybe</a> - Modulos: Fundamentos / FrontEnd / BackEnd / Ciência da Computação / Eletivas em Python
+- 🌱 Formada em Desenvolvimento Web Full Stack pela <a href="https://www.betrybe.com/">Trybe</a>
+-  Modulos: Fundamentos / FrontEnd / BackEnd / Ciência da Computação / Eletivas em Python
 - 🔭 Em busca da minha primeira oportunidade na área
 
 <div>
