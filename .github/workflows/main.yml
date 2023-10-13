@@ -10,11 +10,11 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      - name: Create dist directory
+        run: mkdir dist
+
       - name: Snake Animation
-        id: snake-gif
-        run: |
-          echo "SNAKE=🐍" >> $GITHUB_ENV
+        run: echo "SNAKE=🐍" >> $GITHUB_ENV
         env:
           GITHUB_USER_NAME: AlinyCruz
           SVG_OUT_PATH: dist/github-contribution-grid-snake.svg
@@ -24,6 +24,10 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
+          jekyll: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
