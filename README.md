@@ -7,7 +7,6 @@
 - 🔭 Em busca da minha primeira oportunidade na área
 
 <div>
-
 <a href="https://github.com/AlinyCruz"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlinyCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <a href="https://github.com/AlinyCruz"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinyCruz&layout=compact&langs_count=16&theme=dracula"/>
