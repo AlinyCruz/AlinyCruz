@@ -1,0 +1,31 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create dist directory
+        run: mkdir dist
+
+      - name: Snake Animation
+        run: echo "SNAKE=🐍" >> $GITHUB_ENV
+        env:
+          GITHUB_USER_NAME: AlinyCruz
+          SVG_OUT_PATH: dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
+          jekyll: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
