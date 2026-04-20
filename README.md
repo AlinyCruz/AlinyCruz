@@ -4,7 +4,7 @@
 
 - 🌱 Formada em Desenvolvimento Web Full Stack pela <a href="https://www.betrybe.com/">Trybe</a>
 - 📚 Modulos: Fundamentos / FrontEnd / BackEnd / Ciência da Computação / Eletivas em Python
-- 🎓 Universitária em ADS
+- 🎓 Dev Junior
 - 💞 Transição de Carreira
 - 🔭 Em busca da minha primeira oportunidade na área
 
